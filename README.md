@@ -37,4 +37,4 @@ Le rapport Power BI est conçu pour permettre une analyse détaillée des hôtel
 
 1. **Cloner ce dépôt** :
    ```bash
-   git clone https://github.com/ton_utilisateur/ton_projet.git
+   git clone https://github.com/stevieedgar/Projet-PBI-Hotels.git
